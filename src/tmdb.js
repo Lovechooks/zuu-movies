@@ -1,7 +1,7 @@
 /*eslint-disable */
 
 var tmdb = {
-		"api_key": process.env.REACT_APP_SECRET_CODE,
+		"api_key": "a5af286db2594efaa9e4c172fe07eb1b",
 		"base_uri": "https://api.themoviedb.org/3",
 		"images_uri": "https://image.tmdb.org/t/p",
 		"timeout": 5000,
